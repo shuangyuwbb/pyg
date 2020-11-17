@@ -1,0 +1,25 @@
+{
+  "name": "pyg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuangyuwbb/pyg.git"
+  },
+  "keywords": [
+    "wbb19961997"
+  ],
+  "author": "武斌斌",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuangyuwbb/pyg/issues"
+  },
+  "homepage": "https://github.com/shuangyuwbb/pyg#readme",
+  "dependencies": {
+    "express": "^5.0.0-alpha.8"
+  }
+}
